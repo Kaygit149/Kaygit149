@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaygit149
 - 👀 I’m interested in CNC and 3D printer driver
-- 🌱 I’m currently learning to flash comtroll boards with better firmware
+- 🌱 I’m currently learning to flash control boards with better firmware
 - 💞️ I’m looking to collaborate on 3D printer parts conversion to CNC mill
 - 📫 How to reach me ...
 
